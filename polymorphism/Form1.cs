@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace polymorphism
 {
+    // working with override methods
     public partial class Form1 : Form
     {
         public Form1()
